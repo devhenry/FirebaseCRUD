@@ -1,5 +1,5 @@
 var firebaseConfig = {
-    apiKey: "AIzaSyBv-XluD3Ba5tWl10yfjMJqXCZfyXivW6g",
+    apiKey: "keyhere",
     authDomain: "mycrud-5369e.firebaseapp.com",
     projectId: "mycrud-5369e",
     storageBucket: "mycrud-5369e.appspot.com",
